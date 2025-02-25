@@ -2,7 +2,7 @@
 
 ## Ссылка на проект: 
 
-@ShuMP_bot
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/ShuMP_bot) Начать чат с ботом
 
 ## Скриншоты:
 | Изображение 1 | Изображение 2 | Изображение 3 |
