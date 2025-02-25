@@ -11,12 +11,8 @@
 
 | Изображение 4 | Изображение 5 | Изображение 6 |
 |---------------|---------------|---------------|
-| ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180336_Telegram.jpg?raw=true) =400x) | ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180342_Telegram.jpg?raw=true) =400x) | ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180347_Telegram.jpg?raw=true) =400x) |
+| ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180336_Telegram.jpg?raw=true) | ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180342_Telegram.jpg?raw=true) | ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180347_Telegram.jpg?raw=true) |
 
-
-https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180336_Telegram.jpg?raw=true
-https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180342_Telegram.jpg?raw=true
-https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180347_Telegram.jpg?raw=true
 
 ## Описание проекта
 
