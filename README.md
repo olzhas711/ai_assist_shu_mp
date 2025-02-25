@@ -6,7 +6,7 @@
 
 ## Скриншоты:
 
-https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180310_Telegram.jpg?raw=true
+! [Скриншот 1] (https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180310_Telegram.jpg?raw=true)
 https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180317_Telegram.jpg?raw=true
 https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180323_Telegram.jpg?raw=true
 https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180336_Telegram.jpg?raw=true
