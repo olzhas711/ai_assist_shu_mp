@@ -5,6 +5,13 @@
 @ShuMP_bot
 
 ## Скриншоты:
+| Изображение 1 | Изображение 2 | Изображение 3 |
+|---------------|---------------|---------------|
+| ![]([./screenshots/image1.png](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180310_Telegram.jpg?raw=true) =400x) | ![]([./screenshots/image2.png](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180317_Telegram.jpg?raw=true) =400x) | ![]([./screenshots/image3.png](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180323_Telegram.jpg?raw=true) =400x) |
+
+| Изображение 4 | Изображение 5 | Изображение 6 |
+|---------------|---------------|---------------|
+| ![](./screenshots/image4.png =400x) | ![](./screenshots/image5.png =400x) | ![](./screenshots/image6.png =400x) |
 
 ![Скриншот 1](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180310_Telegram.jpg?raw=true)
 https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180317_Telegram.jpg?raw=true
