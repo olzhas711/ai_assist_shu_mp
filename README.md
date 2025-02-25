@@ -7,7 +7,7 @@
 ## Скриншоты:
 | Изображение 1 | Изображение 2 | Изображение 3 |
 |---------------|---------------|---------------|
-| ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180310_Telegram.jpg?raw=true) =400x) | ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180317_Telegram.jpg?raw=true) =400x) | ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180323_Telegram.jpg?raw=true) =400x) |
+| ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180310_Telegram.jpg?raw=true) | ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180317_Telegram.jpg?raw=true) | ![](https://github.com/olzhas711/ai_assist_shu_mp/blob/main/Screenshot_20250225-180323_Telegram.jpg?raw=true) |
 
 | Изображение 4 | Изображение 5 | Изображение 6 |
 |---------------|---------------|---------------|
